@@ -1,0 +1,43 @@
+.header{
+    width:100%;
+    color: white;
+    padding: 20px;
+    background-color: grey;
+}
+
+menu-item{
+    list-style: none;
+}
+
+.menu-link{
+    color: white;
+    text-decoration: none;
+}
+
+.container{
+    max-width: 1140px;
+    padding: 0 15px;
+    margin: 0 auto;
+}
+
+*{
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    margin: 0;
+    padding: 0;
+}
+
+.banner-title, .banner-description{
+    text-align: center;
+    color: white
+}
+
+.banner-title{
+    font-size: 48px;
+}
+
+.banner-section{
+    padding: 100px 0;
+    background: url(img/del\ .png);
+    background-size: cover;
+    background-position: center;
+}
